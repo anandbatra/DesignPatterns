@@ -1,2 +1,2 @@
 # DesignPatterns
-DesignPattern implementations
+Implementations of design patterns
